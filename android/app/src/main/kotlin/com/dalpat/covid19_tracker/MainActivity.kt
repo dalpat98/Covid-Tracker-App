@@ -1,4 +1,4 @@
-package com.dalpat.covid19_tracker
+package Enter package name here
 
 import io.flutter.embedding.android.FlutterActivity
 
