@@ -2,8 +2,8 @@
 A Flutter application that tracks Covid19 cases in real time
 
 
-## Try the android app dev preview
-
+## Try the android app by installing it from :
+- covidtracker\build\app\outputs\apk\release\app-release.apk
 
 ## Features
 - Current statistics of global total confirmed, deaths, recovered cases.
