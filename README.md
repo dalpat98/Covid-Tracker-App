@@ -10,6 +10,8 @@ A Flutter application that tracks Covid19 cases in real time with different para
 
 ### Show some :heart: and star the repo to support the project
 
+<img src="https://user-images.githubusercontent.com/49696449/82328216-3567eb80-99fd-11ea-8e71-0db8d483c85f.gif" height="500em">
+
 ## Features
 - Current statistics of global wise,state wise and city wise total confirmed, deaths, recovered cases.
 - Statistics of countries and regions total cases count
