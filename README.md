@@ -6,7 +6,7 @@ A Flutter application that tracks Covid19 cases in real time with different para
 [Covid19 Tracker in python](https://github.com/dalpat98/Covid19_Live_Tracker)
 
 ## Try the android app by installing it from :
-- covidtracker\build\app-release.apk
+- build\CovidTracker.apk
 
 ### Show some :heart: and star the repo to support the project
 
