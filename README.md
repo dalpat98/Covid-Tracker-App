@@ -16,9 +16,11 @@ A Flutter application that tracks Covid19 cases in real time
 
 ### Some Screenshots
 
+<img src="https://raw.githubusercontent.com/imSanjaySoni/BMI-Calculator-with-flutter/master/one.png" height="300em" margin-left="5px" />
 <img src="
-https://user-images.githubusercontent.com/49696449/82310933-a5b54380-99e2-11ea-877f-a28a1ee4278e.png" height="300em" />
-![Screenshot_1589543185](https://user-images.githubusercontent.com/49696449/82310990-bcf43100-99e2-11ea-859e-ee3f264a6ae9.png)
+https://user-images.githubusercontent.com/49696449/82310933-a5b54380-99e2-11ea-877f-a28a1ee4278e.png" height="500" width="300">
+<img src="
+![Screenshot_1589543185](https://user-images.githubusercontent.com/49696449/82310990-bcf43100-99e2-11ea-859e-ee3f264a6ae9.png)" height="500" width="300">
 ![Screenshot_1589543206](https://user-images.githubusercontent.com/49696449/82311008-c41b3f00-99e2-11ea-827e-d7bff4e03070.png)
 ![Screenshot_1589543238](https://user-images.githubusercontent.com/49696449/82311022-c8475c80-99e2-11ea-8bab-d9dfda8100e1.png)
 ![Screenshot_1589543262](https://user-images.githubusercontent.com/49696449/82311039-cd0c1080-99e2-11ea-83e8-8ed196025bf6.png)
