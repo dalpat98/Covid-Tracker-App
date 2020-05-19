@@ -1,0 +1,29 @@
+{
+    "title": "coronavirus",
+    "data": [
+        {
+            "title": "Overview",
+            "subtitle": "Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered coronavirus.\n\nMost people infected with the COVID-19 virus will experience mild to moderate respiratory illness and recover without requiring special treatment.  Older people, and those with underlying medical problems like cardiovascular disease, diabetes, chronic respiratory disease, and cancer are more likely to develop serious illness.\n\nThe best way to prevent and slow down transmission is be well informed about the COVID-19 virus, the disease it causes and how it spreads. Protect yourself and others from infection by washing your hands or using an alcohol based rub frequently and not touching your face. \n\nThe COVID-19 virus spreads primarily through droplets of saliva or discharge from the nose when an infected person coughs or sneezes, so it’s important that you also practice respiratory etiquette (for example, by coughing into a flexed elbow).\n\nAt this time, there are no specific vaccines or treatments for COVID-19. However, there are many ongoing clinical trials evaluating potential treatments. WHO will continue to provide updated information as soon as clinical findings become available."
+        },
+        {
+            "title": "Prevention",
+            "subtitle": "To prevent infection and to slow transmission of COVID-19, do the following:\n\n1. Wash your hands regularly with soap and water, or clean them with alcohol-based hand rub.\n2. Maintain at least 1 metre distance between you and people coughing or sneezing.\n3. Avoid touching your face.\n4. Cover your mouth and nose when coughing or sneezing.\n5. Stay home if you feel unwell.\n6. Refrain from smoking and other activities that weaken the lungs.\n7. Practice physical distancing by avoiding unnecessary travel and staying away from large groups of people."
+        },
+        {
+            "title": "Symptoms",
+            "subtitle": "COVID-19 affects different people in different ways. Most infected people will develop mild to moderate illness and recover without hospitalization.\nMost common symptoms:\n\n1.fever.\n2.dry cough.\n3.tiredness.\n\nLess common symptoms:\n\n1.aches and pains.\n2.sore throat.\n3.diarrhoea.\n4.conjunctivitis.\n5.headache.\n6.loss of taste or smell.\n7.a rash on skin, or discolouration of fingers or toes.\n\nSerious symptoms:\n\n1.difficulty breathing or shortness of breath.\n2.chest pain or pressure.\n3.loss of speech or movement.\n\nSeek immediate medical attention if you have serious symptoms.  Always call before visiting your doctor or health facility. \n\nPeople with mild symptoms who are otherwise healthy should manage their symptoms at home. \n\nOn average it takes 5–6 days from when someone is infected with the virus for symptoms to show, however it can take up to 14 days. "
+        },
+        {
+            "title": "About Us",
+            "subtitle":"Hi there, awesome that you are reading this! My name is Dalpat I'm a B.tech (Computer Science Engineering) Student.I'm passionate about data and programming. Currently I'm working on Flutter,and this is my First Project. Hope You Love it.\n\nI'm really Enthuasiast in Machine Learning and Data Science, Python is my favourite subject. I love the flexibility of this programming language and the huge amount of support all around the internet makes it quite easy to find a solution for anything you have never done before.\n\nI recently released my very first python project as well which you can get it on my github. Besides Python and Flutter I've have followed courses about HTML,CSS,Java,C++,C# And many more.. \n\nI've also Created a PC game in Unity Which is a Horror Survival Game and will be Live on the internet very soon. I just love everything that has something to do with data, programming and automation. \n\nI'm seeking to expand my network with like-minded people, so feel free to connect with me if you feel addressed by that!\n\n Soon I will be Publishing more flutter Apps so stay tuned with us.\n\n"
+        },
+        {
+            "title": "Contact us",
+            "subtitle":"For Any Queries and Work Collaboration Contact me at :-\n\ndalpat999.dc@gmail.com\n+91 7073708192"
+        },
+        {
+            "title": "Data Copyright",
+            "subtitle":" 1. ADVICE COPYRIGHT :-\n\nWHO (World Health Organization)\nhttps://www.who.int/emergencies/diseases/novel-coronavirus-2019\n\n 2. DATA COPYRIGHT :- \n\nThe Data is Taken from www.trackCorona.live\n\nTrackCorona commend all research, projects, and publications seeking to educate the world on COVID-19. In the spirit of information sharing, TrackCorona allow anyone to copy, display, and make derivative works using their data, provided that:\n\n   1.  If you use their data, you must attribute it to TrackCorona in any publication.\n   2.  If used in a digital medium, you must also link to www.trackcorona.live\n\nAlthough we strive to have the most accurate, up-to-date information, we cannot guarantee nor be held liable for any errors.\n\nContact TrackCorona at team@trackcorona.live if you have any questions about the data or the required attribution.\n\n3.IMAGES COPYRIGHT :-\n\nAll the images ae taken from unsplash and the right to use those images license is as under at https://unsplash.com/license\n\n"
+        }
+    ]
+}
