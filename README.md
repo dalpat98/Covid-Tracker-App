@@ -6,7 +6,7 @@ A Flutter application that tracks Covid19 cases in real time with different para
 [Covid19 Tracker in python](https://github.com/dalpat98/Covid19_Live_Tracker)
 
 ## Try the android app by installing it from :
-- covidtracker\build\app\outputs\apk\release\app-release.apk
+- covidtracker\build\app-release.apk
 
 ### Show some :heart: and star the repo to support the project
 
@@ -28,6 +28,11 @@ A Flutter application that tracks Covid19 cases in real time with different para
 - Web - Enable Google Maps Javascript API and set API key in `index.html`
 
 ## Changes you should do :
+- Change package name in `AndroidManifest` of all debug, main and profile in app\src.
+- Change package name in `MainActivity.kt` also change in build.gradle.
+- Change Google Maps API Key in `AndroidManifest` and `AppDelegate.swift`.
+- Create your own corona.jks file at android\app\corona.jks
+- Change your key password for release in android\key.properties
 
 
 ## Getting Started
