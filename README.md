@@ -1,6 +1,9 @@
 # Covid-Tracker-App
-A Flutter application that tracks Covid19 cases in real time
+A Flutter application that tracks Covid19 cases in real time with different parameters such as world wise data, state wise data, city wise data and many more
 
+## Also Check the python version of this project below :
+
+[Covid19 Tracker in python](https://github.com/dalpat98/Covid19_Live_Tracker)
 
 ## Try the android app by installing it from :
 - covidtracker\build\app\outputs\apk\release\app-release.apk
@@ -23,6 +26,9 @@ A Flutter application that tracks Covid19 cases in real time
 - iOS - Enable Google Maps for iOS API and set the API Key in `AppDelegate.swift`.
 - Android - Enable Google Maps for Android API and set the API Key in `AndroidManifest`.
 - Web - Enable Google Maps Javascript API and set API key in `index.html`
+
+## Changes you should do :
+
 
 ## Getting Started
 - Clone or download
@@ -54,6 +60,11 @@ I welcome and encourage all pull requests. It usually will take me within 24-48 
 4.  Make sure you follow the set standard as all other projects in this repo do
 5.  Have fun!
 
+# Dependencies :-
+
+		Stable internet connection for getting Live Data
+        
+        
 ### Created & Maintained By
 
 [Dalpat I](https://github.com/dalpat98)
